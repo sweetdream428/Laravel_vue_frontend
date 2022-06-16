@@ -1,0 +1,2 @@
+VUE_BACKEND_LINK=http://localhost:8000
+VUE_FRONTEND_LINK=http://localhost:8080
